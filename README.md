@@ -4,8 +4,6 @@ Boa noite Senhores(as)!
 Meu nome é `Matheus Gomes da Rocha`
 #### Meu email é matheus.gomes.rocha2@gmail.com
 
-#### Poderia responde nesse campo com sim >> [  ]  se conseguiram acessar o meu projeto por favor?
-
 ##### Meu Notion: https://www.notion.so/Desenvolvedor-M3-7f2f9acfd0f54fda884f6877097c2bdf
 
 Ate mais!
