@@ -92,9 +92,5 @@ O objetivo desse desafio é avaliar a seus conhecimentos fundamentais de front e
 ##### Dúvidas: [heraldo@digitalm3.com.br](mailto:heraldo@digitalm3.com.br?subject=Dúvida%20Vaga%20DEV%20-%20Digital%20M3)
 
 
-Estrutura 
 
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2b1f5d3-b8dc-40b5-9942-ca3c7094d6c8/Untitled.png)
-
-![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7346539b-fb98-4a30-9385-8e373f43aee2/Untitled.png)
 
