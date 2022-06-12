@@ -81,7 +81,7 @@ O objetivo desse desafio é avaliar a seus conhecimentos fundamentais de front e
 - Funcionalidade: Filtrar produtos por cor, tamanho e preço.
 - Funcionalidade: Adicionar produto ao carrinho.
 - Funcionalidade: Carregar mais produtos.
-- Não utilizar Bootstrap, Foundation Css, Semantic ui ou semelhantes ;
+- Não utilizar Bootstrap, Foundation Css, Semantic ui ou semelhantes;
 - Responsividade
 
 #### Bônus
