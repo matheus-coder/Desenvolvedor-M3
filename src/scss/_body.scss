@@ -1,0 +1,39 @@
+/*body{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+*/
+
+
+
+.blusa {
+    display: flex;
+    flex-direction: column;
+
+}
+.order{
+    width: 200px;
+    justify-content: space-between;
+    padding: 16px 22px;
+    margin-left: auto;
+    box-sizing: border-box;
+    text-align: center;
+}
+   
+
+
+.cores{
+    display: flex;
+    flex-direction: column;
+    max-width: 200px;
+    padding: 15px 20px;
+}
+
+.tamanho{
+    @extend .cores;
+}
+
+.filtro{
+    @extend .cores;
+}
