@@ -7,6 +7,7 @@
 
 
 
+
 .blusa {
     display: flex;
     flex-direction: column;
@@ -19,8 +20,9 @@
     margin-left: auto;
     box-sizing: border-box;
     text-align: center;
-}
+} 
    
+
 
 
 .cores{
@@ -36,4 +38,12 @@
 
 .filtro{
     @extend .cores;
+}
+
+.produtos{
+    display: flex;
+    justify-content: center;
+    .produto{
+        border: burlywood;
+    }
 }
