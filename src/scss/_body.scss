@@ -42,8 +42,11 @@
 
 .produtos{
     display: flex;
-    justify-content: center;
-    .produto{
-        border: burlywood;
-    }
+    justify-content: space-between;
+
+    
 }
+
+.produto{
+    border: burlywood;
+}   
