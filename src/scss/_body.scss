@@ -1,22 +1,18 @@
-body {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-}
-.blusa {
+.ordenar_por {
     display: flex;
     flex-direction: column;
-    margin: 0%;
+    margin:10%;
+    position: fixed;
+    top: 15px;;
+    right: 30px;
 }
-.cores{
-    display: flex;
-    flex-direction: column;
-    max-width: 200px;
-    padding: 15px 20px;
-}
-.tamanho{
-    @extend .cores;
-}
+
 .filtro{
-    @extend .cores;
+    display: flex;
+    position: fixed;
+    top: 90px;;
+    left: 150px;
+    text-align: center;
+    
 }
+
