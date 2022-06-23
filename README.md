@@ -6,6 +6,9 @@ email: matheus.gomes.rocha2@gmail.com
 
 ##### Meu Notion: https://www.notion.so/Desenvolvedor-M3-7f2f9acfd0f54fda884f6877097c2bdf
 
+Status: Arrumar filtro!
+
+
 Ate mais!
  
 
