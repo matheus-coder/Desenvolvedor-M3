@@ -1,18 +1,22 @@
+
 .ordenar_por {
     display: flex;
     flex-direction: column;
-    margin:10%;
-    position: fixed;
-    top: 15px;
-    right: 30px;
+    padding: 10px;
+    margin:10px;
+    top: 1px;
+    right: 4px;
+    size: 20px;
+    
     
 }
 
 .filtro{
-    display: flex;
     
+    border: none;
     justify-content: space-between; 
-    padding: 5px 1000px 5px 100px; 
+    padding: 5px 10px 5px 100px; 
+    l: 300px;
 }
 
 .contf{
@@ -21,7 +25,7 @@
 
 .produto {
     border: rgb(222, 135, 135);
-    padding: 10px 20px;
+    padding: 30px 30px;
     align-items:stretch;
     flex-direction: column;
     justify-content: space-between;
@@ -29,7 +33,7 @@
 
 }
 
-    
+  
     
 .produtos {
     justify-content: space-between; 
